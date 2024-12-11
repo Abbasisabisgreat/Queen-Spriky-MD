@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "vvYnhb5R#hOF75z7C79ovKqtuHuCJWiG6UfddlQIsz5hxEmaXHeE.",
       "required": true
     },
     
@@ -18,7 +18,7 @@
     },
 
     "OwnerNumber": {
-      "description": "Enter Your Owner Number Here.",
+      "description": "923347114362.",
       "required": false
     }
   },
